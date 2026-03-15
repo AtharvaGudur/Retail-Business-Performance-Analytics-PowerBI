@@ -3,12 +3,23 @@
 
 ## Dashboard Preview
 
-Sales Performance Overview Dashboard
-Customer Behavior Analytics Dashboard
-Product Performance and Profitability Dashboard
-Store Performance Analytics Dashboard
-Returns and Refund Analytics Dashboard
-Retail Executive Performance Dashboard
+### Sales Performance Overview Dashboard
+![Sales Dashboard](Retail Sales Performance Dashboard.png)
+
+### Customer Behavior Analytics Dashboard
+![Customer Dashboard](Customer Behavior Analytics Dashboard.png)
+
+### Product Performance and Profitability Dashboard
+![Product Dashboard](Product Performance and Profitability Dashboard.png)
+
+### Store Performance Analytics Dashboard
+![Store Dashboard](Store Performance Analytics Dashboard.png)
+
+### Returns and Refund Analytics Dashboard
+![Return Dashboard](Returns and Refund Analytics Dashboard.png)
+
+### Retail Executive Performance Dashboard
+![Executive Dashboard](Retail Executive Performance Dashboard.png)
 
 ---
 
